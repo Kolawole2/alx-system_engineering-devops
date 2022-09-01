@@ -1,2 +1,0 @@
-#!/bin/bash
-find .-name '[[:upper:]]*' mv -t /tmp/u
